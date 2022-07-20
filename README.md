@@ -1,6 +1,6 @@
 # flask-secrets
 
-Divertido y didactico login (muy simple) usando flask y boostrap (Introductorio)
+Divertido y didactico login (muy simple) usando html, flask y boostrap (Introductorio)
 
 
 USERNAME: admin@email.com
